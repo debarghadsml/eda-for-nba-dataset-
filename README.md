@@ -10,13 +10,13 @@ Also, it could be interesting to see how geographically diverse the NBA is and h
 A longitudinal study on players' career arches can also be performed.
 
 language used 
-1. python
+  1. python
 libraries used
-1. numoy
-2. pandas
-3. matplotlib
-4. sklearn
-5. seaborn
+  1. numoy
+  2. pandas
+  3. matplotlib
+  4. sklearn
+  5. seaborn
 source
-1. kaggle
-2. official site of NBA  
+  1. kaggle
+  2. official site of NBA  
