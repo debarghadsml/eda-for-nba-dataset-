@@ -8,3 +8,15 @@ I am not aware of any other data quality issues.
 The data set can be used to explore how age/height/weight tendencies have changed over time due to changes in game philosophy and player development strategies. 
 Also, it could be interesting to see how geographically diverse the NBA is and how oversees talents have influenced it. 
 A longitudinal study on players' career arches can also be performed.
+
+language used 
+1. python
+libraries used
+1. numoy
+2. pandas
+3. matplotlib
+4. sklearn
+5. seaborn
+source
+1. kaggle
+2. official site of NBA  
